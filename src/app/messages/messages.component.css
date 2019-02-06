@@ -1,0 +1,17 @@
+button{
+    color: #434551;
+}
+
+button.clear {
+    background-color: #FDF9ED;
+    border-color: #434551;
+    padding: 5px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    cursor: hand;
+    margin-bottom: 15px;
+}
+button:hover {
+background-color: #434551;
+color: #DDD;
+}
