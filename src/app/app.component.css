@@ -1,0 +1,14 @@
+.switch__item {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin: 10px 10px 0 0;
+    display: inline-block;
+    border-radius: 6px;
+    background-color: #FDF9ED;
+    color: #535564;
+}
+
+.switch__item:hover {
+    background-color: #DDD;
+    color: #434343;
+}

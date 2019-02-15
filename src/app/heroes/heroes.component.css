@@ -1,7 +1,3 @@
-.selected {
-  background-color: #EDEDED !important;
-  color: #434551;
-}
 
 .heroes {
   margin-bottom: 2em;
@@ -19,10 +15,17 @@
   left: 0;
 }
 
-.heroes li.selected:hover {
-  background-color: #FED361 !important;
-  color: #000;
+.friends-menu {
+  text-decoration: none;
+  color: #535564;
+  position: relative;
+  display: block;
 }
+
+.friends-menu:hover {
+  color: #434343;
+}
+
 .heroes li:hover {
   color: #434551;
   background-color: #DDD;
